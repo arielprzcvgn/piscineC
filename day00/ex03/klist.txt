@@ -1,0 +1,5 @@
+Credentials cache: API:897ED759-A2F5-47CB-A5CF-E8AE09F36E4A
+        Principal: ariperez@42.FR
+
+  Issued                Expires               Principal
+Jul  2 16:33:22 2018  Jul  9 16:33:06 2018  krbtgt/42.FR@42.FR
